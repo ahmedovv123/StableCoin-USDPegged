@@ -1,3 +1,6 @@
+This project is a part of Patric's Advanced Foundry course: https://updraft.cyfrin.io/courses/advanced-foundry
+
+
 1. (Relative Stability) Anchored or Pegged -> $1.00
     1. Chainlink Price feed.
     2. Set a function to exchange ETH & BTC -> $$$
